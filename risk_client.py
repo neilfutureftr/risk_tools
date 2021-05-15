@@ -6,17 +6,7 @@ Created on Tue Sep 18 05:20:15 2018
 """
 import bravado
 from shutil import copyfile
-from FonctionsNico import *
-from FonctionsAlgo import *
 import bitmex
-import pandas as pd
-import numpy as np
-import time
-import matplotlib
-import os
-import pandas as pd
-import time
-
 
 idd="h21fGYIqg1PoTHXH9Q6tSKh6"
 keyd="729O0LE0aPLiMolkEgcg_7qwI3fsIOruhGwcC3PIJdxsC6Tk"
